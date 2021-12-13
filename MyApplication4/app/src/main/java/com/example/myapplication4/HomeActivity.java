@@ -228,4 +228,6 @@ adapter.startListening();
     }
 
 
+    public void chat(View view) {
+    }
 }
